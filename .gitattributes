@@ -1,0 +1,4 @@
+dist/**/* merge=ours
+# vue.config.js merge=ours
+# nginx_activity.config merge=ours
+# Dockerfile merge=ours
