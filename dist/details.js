@@ -1,3 +1,3 @@
-console.log(233)
+console.log(2)
 console.log('GGGGGGGG')
 
