@@ -78,6 +78,6 @@ module.exports = {
       require('./serviceApi/meiyouArticle'),
       require('./serviceApi/ampArticle'),
     ],
-    test:'测试GGGGGGGG'
+    test:'测试OOOOOOOOO'
   }
   
