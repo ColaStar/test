@@ -1,2 +1,2 @@
 console.log(233)
-console.log('MMMMMMM')
+console.log('GGGGGGGG')
