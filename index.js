@@ -24,5 +24,6 @@
    newsWapTest: 'https://test.3g.163.com',
  
    setRequestHost: [['http://noah-wap3g-new-varnish-docker-cm-online', '3g.163.com']],
+   test:'GGGGGGGG'
  }
  
