@@ -1,1 +1,1 @@
-console.log('index4 tets2')
+console.log('index4 tets')
